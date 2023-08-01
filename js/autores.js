@@ -7,7 +7,7 @@ module.exports = {
       image: "./img/autores/agenor_martinho_correa.png",
       lattes: "http://lattes.cnpq.br/0070274390977184",
       description:
-        "Engenheiro-agrônomo, doutor em Agronomia, professor adjunto da Universidade Estadual de Mato Grosso do Sul (UEMS), Aquidauana, MS.",
+        "Engenheiro-agrônomo, doutor em Agronomia, professor aposentado da Universidade Estadual de Mato Grosso do Sul (UEMS), Aquidauana, MS.",
     },
     {
       name: "Alexandre Dinnys Roese",
@@ -72,6 +72,13 @@ module.exports = {
         "Engenheira-agrônoma, doutora em Biologia Vegetal, pesquisadora da Embrapa Milho e Sorgo, Sete Lagoas, MG.",
     },
     {
+      name: "Daniel da Silva Ferreira",
+      image: "./img/autores/n-possui.png",
+      lattes: "http://lattes.cnpq.br/2810219541462199",
+      description:
+        "Engenheiro-agrônomo, Doutor em Agronomia, analista da Embrapa Algodão, Campina Grande, PB.",
+    },
+    {
       name: "Danilton Luiz Flumignan",
       image: "./img/autores/danilton_luiz_flumignan.png",
       lattes: "http://lattes.cnpq.br/7854592162885042",
@@ -97,7 +104,7 @@ module.exports = {
       image: "./img/autores/eliel_souza_freitas_junior.png",
       lattes: "http://lattes.cnpq.br/5135252216796202",
       description:
-        "Engenheiro-agrônomo, assessor técnico da Associação Estadual de Cooperação Agrícola – MS (Aesca), Campo Grande, MS.",
+        "Engenheiro-agrônomo, assessor técnico em Agroecologia no Conselho Indigenista Missionário - Regional MS (CIMI - MS), Campo Grande, MS.",
     },
     {
       name: "Elsio Antonio Pereira de Figueiredo",
@@ -118,7 +125,7 @@ module.exports = {
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/1779799457606735",
       description:
-        "Bióloga, doutora em Recursos Naturais, bolsista DTI/BRS-Aqua, Dourados, MS.",
+        "Bióloga, doutora em Recursos Naturais, bolsista Fundect/MS Carbono Neutro, Dourados, MS.",
     },
     {
       name: "Everton Luis Krabbe",
@@ -188,7 +195,7 @@ module.exports = {
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/1587528239422123",
       description:
-        "Engenheiro-agrônomo, mestre em Agronomia, técnico da Embrapa Hortaliças, Brasília, DF.",
+        "Engenheiro-agrônomo, mestre em Agronomia, pesquisador aposentado da Embrapa Produtos e Mercado, Dourados, MS",
     },
     {
       name: "Ítalo Lüdke",
@@ -226,18 +233,25 @@ module.exports = {
         "Zootecnista, gestora de desenvolvimento rural da Agência de Desenvolvimento Agrário e Extensão Rural (Agraer), Campo Grande, MS.",
     },
     {
+      name: "Laurindo André Rodrigues",
+      image: "./img/autores/n-possui.png",
+      lattes: "http://lattes.cnpq.br/7528690769594379",
+      description:
+        "Zootecnista, doutor em Aquicultura, pesquisador da Embrapa Agropecuária Oeste, Dourados, MS.",
+    },
+    {
       name: "Leandro de Oliveira Souza Higa",
       image: "./img/autores/leandro_de_oliveira_souza_higa.png",
       lattes: "http://lattes.cnpq.br/2088172165398956",
       description:
-        "Biólogo, mestre em Ciência Animal, bolsista DCR na Embrapa Gado de Corte, Campo Grande, MS.",
+        "Biólogo, doutor em Doenças Infecciosas e Parasitárias. Bolsista de pós-doutorado júnior pelo CNPq, Embrapa Gado de Corte, Campo Grande, MS.",
     },
     {
       name: "Liliane Aico Kobayashi Leonel",
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/8528567019136009",
       description:
-        "Engenheira-agrônoma, mestre em Agronomia, gestora de desenvolvimento rural da Agraer, Dourados, MS.",
+        "Engenheira-agrônoma, mestre em Agronomia, pesquisadora aposentada da Agência de Desenvolvimento Agrário e Extensão Rural (Agraer), Dourados, MS.",
     },
     {
       name: "Luciano Oliveira Geisenhoff",
@@ -268,6 +282,13 @@ module.exports = {
         "Engenheiro-agrônomo, doutor em Pastagem e Forragicultura, pesquisador da Embrapa Agropecuária Oeste, Dourados, MS.",
     },
     {
+      name: "Luiz Carlos Guilherme",
+      image: "./img/autores/n-possui.png",
+      lattes: "http://lattes.cnpq.br/9901101193416432",
+      description:
+        "Zootecnista, doutor em Genética e Bioquímica, pesquisador da Embrapa Cocais, São Luís, MA.",
+    },
+    {
       name: "Marcelo Mikio Hanashiro",
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/5210219720300370",
@@ -296,11 +317,25 @@ module.exports = {
         "Engenheiro-agrônomo, doutor em Agronomia, pesquisador da Embrapa Mandioca e Fruticultura, Cruz das Almas, BA.",
     },
     {
+      name: "Marcos Valério Garcia",
+      image: "./img/autores/n-possui.png",
+      lattes: "http://lattes.cnpq.br/8490118938182059",
+      description:
+        "Biólogo, Doutor em Microbiologia Agropecuária, Bolsista DCR Biotick/Fundapam, Embrapa Gado de Corte, Campo Grande, MS.",
+    },
+    {
       name: "Maria do Carmo Vieira",
       image: "./img/autores/maria_do_carmo_vieira.png",
       lattes: "http://lattes.cnpq.br/8711369609923178",
       description:
         "Engenheira-agrônoma, doutora em Fitotecnia, professora titular da Universidade Federal da Grande Dourados (UFGD), Dourados, MS.",
+    },
+    {
+      name: "Nair Helena Castro Arriel",
+      image: "./img/autores/n-possui.png",
+      lattes: "http://lattes.cnpq.br/6436236152448398",
+      description:
+        "Engenheira-agrônoma, doutora em Produção Vegetal, pesquisadora da Embrapa Algodão, Campina Grande, PB.",
     },
     {
       name: "Nelson Pires Feldberg",
@@ -328,7 +363,7 @@ module.exports = {
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/9548743761990538",
       description:
-        "Engenheiro-agrônomo, doutor em Ciências, pesquisador da Embrapa Agropecuária Oeste, Dourados, MS.",
+        "Engenheiro-agrônomo, doutor em Ciências, pesquisador da Embrapa Hortaliças, Brasília, DF.",
     },
     {
       name: "Paulo Evaristo de Oliveira Guimarães",
@@ -342,14 +377,14 @@ module.exports = {
       image: "./img/autores/renato_andreotti_e_silva.png",
       lattes: "http://lattes.cnpq.br/3621407609889650",
       description:
-        "Médicao veterinário, doutor em Biologia Molecular, pesquisador da Embrapa Gado de Corte, Campo Grande, MS.",
+        "Médico veterinário, doutor em Biologia Molecular, pesquisador da Embrapa Gado de Corte, Campo Grande, MS.",
     },
     {
       name: "Ricardo Borghesi",
       image: "./img/autores/ricardo_borghesi.png",
       lattes: "http://lattes.cnpq.br/7926008750934949",
       description:
-        "Zootecnista, doutor em Ciência Animal e Pastagens, pesquisador da Embrapa Agropecuária Oeste, Dourados, MS.",
+        "Zootecnista, doutor em Ciência Animal e Pastagens, pesquisador, Gerência de Parcerias (GPAR)/ Supervisão de Atração de Investimentos (SAIN), Embrapa Meio Ambiente, Jaguariúna, SP.",
     },
     {
       name: "Rita de Cássia Félix Alvarez",
